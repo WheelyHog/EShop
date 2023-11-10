@@ -57,7 +57,6 @@ const FeaturedProducts = ({ type }) => {
     //     fetchData()
     // }, [])
 
-
     return (
         <div className='featured'>
             <div className="top">
